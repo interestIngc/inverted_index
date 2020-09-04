@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+2fa60ef3c7fd445e80df36df9338cf14 test/CMakeFiles/etc
+c7afb7e22b9158542055922250a68850 test/etc/Alices_Adventures_in_Wonderland.txt

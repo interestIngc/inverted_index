@@ -1,0 +1,2 @@
+C:\Users\Veronika\Desktop\51A2~1\mingw32\bin\ar.exe qc libsearch_engine_lib.a  CMakeFiles/search_engine_lib.dir/src/searcher.cpp.obj
+C:\Users\Veronika\Desktop\51A2~1\mingw32\bin\ranlib.exe libsearch_engine_lib.a

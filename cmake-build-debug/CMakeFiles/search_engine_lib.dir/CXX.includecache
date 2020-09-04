@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/searcher.h
+string
+-
+utility
+-
+unordered_map
+-
+vector
+-
+map
+-
+set
+-
+sstream
+-
+bits/stl_algo.h
+-
+algorithm
+-
+iterator
+-
+iostream
+-
+memory
+-
+
+C:/Users/Veronika/Desktop/report/inverted-index-interestIngc/src/searcher.cpp
+searcher.h
+C:/Users/Veronika/Desktop/report/inverted-index-interestIngc/src/searcher.h
+
